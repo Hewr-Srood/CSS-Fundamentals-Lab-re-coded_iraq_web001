@@ -8,7 +8,7 @@ header{
 }
 
 nav a{
-  margin: 10px;
+  padding: : 10px;
 }
 
 #featured-property{
@@ -17,7 +17,9 @@ nav a{
   align-items: center;
   text-align: center;
 }
-
+#featured-property p{
+  width: 800px;
+}
 #details{
   display: flex;
   justify-content: space-around;
