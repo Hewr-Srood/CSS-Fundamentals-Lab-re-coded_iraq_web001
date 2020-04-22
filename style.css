@@ -13,7 +13,8 @@ figure{
   align-content: center;
 }
 
-footer{
+#details{
   display: flex;
   flex-direction: row;
+  
 }
