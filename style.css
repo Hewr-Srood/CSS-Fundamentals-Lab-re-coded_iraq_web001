@@ -21,7 +21,9 @@ nav a{
   width: 800px;
 }
 #details{
-  display: flex;
-  justify-content: space-around;
+  display: block;
   background: red;
+}
+#details div{
+  float: left;
 }
