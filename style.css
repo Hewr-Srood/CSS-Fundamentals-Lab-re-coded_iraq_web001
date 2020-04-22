@@ -33,4 +33,5 @@ nav a{
 *#details{
   display: flex;
   background: red;
+  justify-content: space-around;
 }
