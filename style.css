@@ -12,3 +12,7 @@ figure{
   align-items: center;
   align-content: center;
 }
+
+footer div{
+  display: inline-block;
+}
