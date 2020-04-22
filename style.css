@@ -13,6 +13,6 @@ figure{
   align-content: center;
 }
 
-footer div{
-  display: block;
+footer {
+  display:inline;;
 }
