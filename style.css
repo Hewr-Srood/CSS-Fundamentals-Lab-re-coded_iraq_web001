@@ -6,6 +6,11 @@ body {
 header{
   text-align: center;
 }
+
+nav a{
+  margin: 10px;
+}
+
 figure{
   display: flex;
   flex-direction: column;
