@@ -20,11 +20,17 @@ nav a{
 #featured-property p{
   width: 800px;
 }
-#details{
+/*#details{
   display: block;
   background: red;
 }
 #details div{
   float: left;
   width: 25%
+}
+*/
+
+*#details{
+  display: flex;
+  background: red;
 }
